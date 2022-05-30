@@ -277,5 +277,6 @@ footer a {
     #aiuto{display:none}
     .social{display: none;}
     .toTop{display: none;}
+    main{box-shadow: none}
     body{font-size: 2.2rem; line-height: 1.55;};
 }
