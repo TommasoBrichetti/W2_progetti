@@ -24,6 +24,7 @@ header {
     padding: 2em 1.5em;
     position: sticky;
     top: 0;
+    z-index: 1;
     overflow: auto;
 }
 header div img {
@@ -209,7 +210,7 @@ footer a {
 
 .ancor{
     position: fixed;
-    top: 60%;
+    top: 80%;
     right: -1.5rem;
     font-size: 5rem;
 }
@@ -218,7 +219,7 @@ footer a {
 
 .sn{
     position: fixed;
-    top: 20%;
+    top: 40%;
     right: -1.5rem;
     font-size: 5rem;
 }
@@ -227,7 +228,7 @@ footer a {
 
 .calendar{
     position: fixed;
-    top: 38%;
+    top: 55%;
     right: -1.5rem;
     font-size: 5rem;
 }
